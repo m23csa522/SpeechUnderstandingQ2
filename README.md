@@ -61,6 +61,6 @@ Or, if using Google Colab, execute the notebook cells sequentially.
 - **Model Evaluation Metrics**: Accuracy, precision, recall, and confusion matrix for classifiers.
 
 ## Author
-- Your Name
-- Contact: your.email@example.com
+- Rahul Singh
+- Contact: m23csa522@iitj.ac.in
 
